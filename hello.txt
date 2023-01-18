@@ -1,4 +1,3 @@
 new file
 Fdf
-master_branch
-merge_test
+test_merge
