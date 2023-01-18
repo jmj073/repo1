@@ -2,3 +2,4 @@ hello, world!
 first file
 diff_test
 test
+rebase
